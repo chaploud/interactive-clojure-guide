@@ -4,7 +4,7 @@
 
 ## 目次
 
-- [リポジトリのセットアップ](./setup.md)
+- [clerkガイド](./clerk/README.md)
 
 ## Interactive Clojure Guide
 
