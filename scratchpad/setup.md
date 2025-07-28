@@ -11,3 +11,9 @@ git clone https://github.com/chaploud/interactive-clojure-guide.git
 ```
 
 ## 起動
+
+### Clojure
+
+```sh
+cd interactive-clojure-guide/Clojure
+```
